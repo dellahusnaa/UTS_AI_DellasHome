@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\140810200012_UTS\140810200012_UTS\bin\Debug\140810200012_UTS.exe.config
+C:\Users\Acer\source\repos\140810200012_UTS\140810200012_UTS\bin\Debug\140810200012_UTS.exe
+C:\Users\Acer\source\repos\140810200012_UTS\140810200012_UTS\bin\Debug\140810200012_UTS.pdb
+C:\Users\Acer\source\repos\140810200012_UTS\140810200012_UTS\obj\Debug\140810200012_UTS.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\140810200012_UTS\140810200012_UTS\obj\Debug\_140810200012_UTS.Form1.resources
+C:\Users\Acer\source\repos\140810200012_UTS\140810200012_UTS\obj\Debug\_140810200012_UTS.Properties.Resources.resources
+C:\Users\Acer\source\repos\140810200012_UTS\140810200012_UTS\obj\Debug\140810200012_UTS.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\140810200012_UTS\140810200012_UTS\obj\Debug\140810200012_UTS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\140810200012_UTS\140810200012_UTS\obj\Debug\140810200012_UTS.exe
+C:\Users\Acer\source\repos\140810200012_UTS\140810200012_UTS\obj\Debug\140810200012_UTS.pdb
